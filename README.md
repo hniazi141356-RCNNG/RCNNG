@@ -1,4 +1,4 @@
-# RCNNG — Resonant Closed Neural Network Geometry
+# RCNNG — Resonance of Closed Neural Network Geometry
 
 This repository contains the full Python codebase, simulation outputs, and conceptual figures
 associated with the RCNNG framework.
