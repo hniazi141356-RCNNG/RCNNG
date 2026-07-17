@@ -41,5 +41,7 @@ The supplementary document submitted with the manuscript is located in:
 ### 5. Citation
 If you use this repository, please cite:
 
-Niazi, H. (2026). *Resonance of Closed Neural Network Geometries (RCNNG)*.
-Submitted to Open Mind.
+Niazi, H. (2026). Resonance of Closed Neural Network Geometries (RCNNG). 
+Preprint available at Zenodo and Figshare.
+https://doi.org/10.5281/zenodo.21309841
+https://doi.org/10.6084/m9.figshare.33012605
