@@ -34,9 +34,9 @@ Five conceptual figures illustrating the two perceptual formalisms:
 are located in the `conceptual_figures/` directory.
 
 ### 4. Supplementary PDF
-The supplementary document submitted with the manuscript is located in:
+The supplementary document associated with the RCNNG preprint is located in:
 
-`/supplementary/supplementary_RCNNG_Open_Mind.pdf`
+/supplementary/supplementary_RCNNG.pdf
 
 ### 5. Citation
 If you use this repository, please cite:
