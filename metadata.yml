@@ -1,0 +1,34 @@
+title: "An Innovative Perspective to Profound Functions of the Brain: Hypothesis of Resonance of Closed Neural Network Geometries (RCNNG)"
+authors:
+  - name: "Hasan Niazi"
+    affiliation: "Independent Researcher"
+    email: "H.Niazi141356@gmail.com"
+
+abstract: |
+  This preprint introduces the Resonance Of Closed Neural Network Geometry (RCNNG) hypothesis, a theoretical model proposing that perception and conscious experience arise from resonance within closed geometrical structures formed in adaptive neural networks. The hypothesis suggests that repeated frequency‑based stimulation can generate stable closed attractors in neural activity, and that these resonant geometries serve as the basis of perceptual states.
+
+  The manuscript develops the mathematical and dynamical foundations of RCNNG, presenting analytical arguments for the emergence of closed resonant structures in nonlinear adaptive networks. It outlines computational approaches for simulating resonance‑driven attractor formation and proposes experimental paradigms using EEG/MEG and optogenetic stimulation to empirically test the hypothesis.
+
+  The work also defines clear falsifiability criteria based on the relationship between resonant geometries and subjective perceptual reports. By integrating concepts from nonlinear dynamics, network theory, and computational neuroscience, RCNNG offers a unified perspective on how stable perceptual states may emerge from complex neural activity and aims to stimulate further scientific investigation into resonance‑based models of perception and consciousness.
+
+keywords:
+  - RCNNG
+  - neural resonance
+  - closed neural geometries
+  - nonlinear dynamics
+  - computational neuroscience
+  - perception
+  - consciousness
+  - adaptive neural networks
+  - attractors
+
+license: "CC-BY-4.0"
+
+repository:
+  url: "https://github.com/hniazi141356-RCNNG"
+
+files:
+  - path: "Article_RCNNG_Version_2.pdf"
+    type: "preprint"
+  - path: "supplementary/supplementary_RCNNG.pdf"
+    type: "supplementary"
